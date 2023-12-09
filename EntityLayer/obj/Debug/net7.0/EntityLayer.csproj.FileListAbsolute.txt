@@ -1,0 +1,14 @@
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.AssemblyReference.cache
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\EntityLayer\obj\Debug\net7.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfoInputs.cache
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfo.cs
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.CoreCompileInputs.cache
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\EntityLayer\bin\Debug\net7.0\EntityLayer.deps.json
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\EntityLayer\bin\Debug\net7.0\EntityLayer.runtimeconfig.json
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\EntityLayer\bin\Debug\net7.0\EntityLayer.dll
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\EntityLayer\bin\Debug\net7.0\EntityLayer.pdb
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\EntityLayer\obj\Debug\net7.0\EntityLayer.dll
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\EntityLayer\obj\Debug\net7.0\refint\EntityLayer.dll
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\EntityLayer\obj\Debug\net7.0\EntityLayer.pdb
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\EntityLayer\obj\Debug\net7.0\EntityLayer.genruntimeconfig.cache
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\EntityLayer\obj\Debug\net7.0\ref\EntityLayer.dll

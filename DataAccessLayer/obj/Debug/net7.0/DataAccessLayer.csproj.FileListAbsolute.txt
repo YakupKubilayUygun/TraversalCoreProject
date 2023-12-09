@@ -1,0 +1,17 @@
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\DataAccessLayer\bin\Debug\net7.0\EntityLayer.dll
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\DataAccessLayer\bin\Debug\net7.0\EntityLayer.pdb
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CopyComplete
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
+D:\Computer Engineer Department\5. Yarı Yıl (2023-2024)\Web Tabanlı Teknolojiler\TraversalCoreProject\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
