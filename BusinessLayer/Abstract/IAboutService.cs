@@ -9,7 +9,7 @@ namespace BusinessLayer.Abstract
 {
     public interface IAboutService:IGenericService<About>
     {
-
+    //test v2
 
 
     }
